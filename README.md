@@ -52,7 +52,7 @@ Got a wicked problem? Let's solve it together!
       </td>
     <tr valign="top">
       <td width="33%" align="cßßenter">
-        <span>sckit-learn</span><br><br>
+        <span>scikit-learn</span><br><br>
         <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
       </td>
       <td width="33%" align="center">
