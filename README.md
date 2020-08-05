@@ -64,5 +64,11 @@ Got a wicked problem? Let's solve it together!
         <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="33%" align="cßßenter">
+        <span>Apache Spark</span><br><br>
+        <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
+      </td>
+    </tr>
   </tbody>
 </table>
