@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-brunokatekawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunokatekawa/)](https://www.linkedin.com/in/brunokatekawa/) [![DEV Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to&logoColor=white&link=https://brunokatekawa.github.io/ds_portfolio/)](https://brunokatekawa.github.io/ds_portfolio/)
 
-Hello, I'm **Bruno Katekawa**, a Data Scientist who has worked for companies of various sizes, from startups to multinationals where I had extensive experience with **Information Technology and User Experience**, extracting the maximum potential from these disciplines in order to deliver the greatest possible value to the businesses.
+Hello, I'm **Bruno Katekawa**, a Data Scientist who has worked for companies of various sizes, from startups to multinationals where I had extensive experience in **Information Technology and User Experience**, extracting the maximum potential from these disciplines in order to deliver the greatest possible value to the businesses.
 
 In addition, I’ve collaborated with projects that positively impacted **hundreds of thousands** of people that use banking services (retail, corporate and private), telecoms services and health insurance services.
 
@@ -72,3 +72,11 @@ Got a wicked problem? Let's solve it together!
     </tr>
   </tbody>
 </table>
+
+---
+
+## Articles
+
+- [On People Analytics — Employee Turnover - A trillion dollars problem](https://medium.com/@brunokatekawa/on-people-analytics-employee-turnover-b493cec75f17)
+- [Linear Regression Study 1 - An exercise on beer consumption (PT-BR)](https://medium.com/designed-by-data/estudo-de-regress%C3%A3o-linear-1-64c1a560c938)
+- [Data Science + UX?](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
