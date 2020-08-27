@@ -26,9 +26,13 @@ Got a wicked problem? Let's solve it together!
 
 [![Linkedin Badge](https://img.shields.io/badge/-brunokatekawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunokatekawa/)](https://www.linkedin.com/in/brunokatekawa/)
 
+_A **Wicked Problem** is a problem that is difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize. It refers to an idea or problem that cannot be fixed, where there is no single solution to the problem; - Wikipedia_
+
 ---
 
 ## Projects
+
+### Data Analytics
 
 ### [Rossmann stores sales prediction](https://github.com/brunokatekawa/RossmannSales)
 
@@ -43,6 +47,16 @@ Project repo: https://github.com/brunokatekawa/RossmannSales
 With a trillion dollars on the table, businesses may also want to take other steps to curb turnover and keep their workforce happy and engaged.
 
 Project repo: https://github.com/brunokatekawa/PeopleAnalytics_Turnover
+
+<br>
+
+### Dashboards
+
+### [Retail Sales Dashboard](https://github.com/brunokatekawa/dashboard_sales_retail_WM)
+
+How a business can view relevant business KPIs and results at a glance in order to make better data-driven decisions?
+
+Project repo: https://github.com/brunokatekawa/dashboard_sales_retail_WM
 
 ---
 
@@ -92,11 +106,11 @@ Project repo: https://github.com/brunokatekawa/PeopleAnalytics_Turnover
       </td>
     </tr>
     <tr valign="top">
-      <td width="33%" align="cßßenter">
+      <td width="33%" align="center">
         <span>Apache Spark</span><br><br>
         <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
       </td>
-      <td width="33%" align="cßßenter">
+      <td width="33%" align="center">
         <span>Power BI</span><br><br>
         <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
       </td>
@@ -110,5 +124,5 @@ Project repo: https://github.com/brunokatekawa/PeopleAnalytics_Turnover
 
 - [On People Analytics — Employee Turnover - A trillion dollars problem](https://medium.com/@brunokatekawa/on-people-analytics-employee-turnover-b493cec75f17)
 - [Linear Regression Study 1 - An exercise on beer consumption (PT-BR)](https://medium.com/designed-by-data/estudo-de-regress%C3%A3o-linear-1-64c1a560c938)
-- [Data Science + UX?](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
+- [Data Science + UX? (PT-BR)](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
 - [Installing Apache PySparck to run on Jupyter Notebook on MacOS (PT-BR)](https://medium.com/designed-by-data/instalando-apache-pyspark-para-funcionar-com-jupyter-notebook-no-macos-42f992c45842)
