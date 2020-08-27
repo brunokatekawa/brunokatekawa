@@ -2,15 +2,15 @@
 
 ## Services
 
-### Data Analysis
+### :mag_right: Data Analysis
 
-Analyze the data in order to extract meaningful business insights that will leverage your company. The findings are clearly presented in reports or tools.
+Analyze the data in order to extract meaningful insights that will leverage your business. The findings are clearly presented in reports of tools.
 
-### Data Analytics
+### :crystal_ball: Data Analytics
 
-Data is the fuel to the machine learning models that will be built in order to make predictions, for example, sales and/or demand forecasts.
+The data is the fuel to the machine learning models that will be built in order to make predictions, for example, sales and/or demand forecasts.
 
-### Dashboards
+### :bar_chart: Dashboards
 
 Visualizing and interacting with the data is one of the first steps to examine trends and patterns. View the most important KPIs and results at a glance.
 
