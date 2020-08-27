@@ -1,8 +1,22 @@
-# Data Science + UX
+# Data Analytics & UX Consulting
 
-[![Linkedin Badge](https://img.shields.io/badge/-brunokatekawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunokatekawa/)](https://www.linkedin.com/in/brunokatekawa/) [![DEV Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to&logoColor=white&link=https://brunokatekawa.github.io/ds_portfolio/)](https://brunokatekawa.github.io/ds_portfolio/)
+## Services
 
-Hello, I'm **Bruno Katekawa**, a Data Scientist who has worked for companies of various sizes, from startups to multinationals where I had extensive experience in **Information Technology and User Experience**, extracting the maximum potential from these disciplines in order to deliver the greatest possible value to the businesses.
+### Data Analysis
+
+Analyze the data in order to extract meaningful business insights that will leverage your company. The findings are clearly presented in reports of tools.
+
+### Data Analytics
+
+The data is the fuel to the machine learning models that will be built in order to make predictions, for example, sales and/or demand forecasts.
+
+### Dashboards
+
+Visualizing and interacting with the data is one of the first steps to examine trends and patterns. View the most important KPIs and results at a glance.
+
+---
+
+Hello, I'm **Bruno Katekawa**, a Data Analytics consultant, I've worked for companies of various sizes, from startups to multinationals where I had extensive experience in **Information Technology and User Experience**, extracting the maximum potential from these disciplines in order to deliver the greatest possible value to the businesses.
 
 In addition, I’ve collaborated with projects that positively impacted **hundreds of thousands** of people that use banking services (retail, corporate and private), telecoms services and health insurance services.
 
@@ -10,16 +24,29 @@ I appreciate collaborating with projects that change the way businesses and indu
 
 Got a wicked problem? Let's solve it together!
 
+[![Linkedin Badge](https://img.shields.io/badge/-brunokatekawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunokatekawa/)](https://www.linkedin.com/in/brunokatekawa/)
+
 ---
 
 ## Projects
 
-- [Rossmann stores sales prediction](https://github.com/brunokatekawa/RossmannSales)
-- [On People Analytics - Employee turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover)
+### [Rossmann stores sales prediction](https://github.com/brunokatekawa/RossmannSales)
+
+In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.
+
+Project repo: https://github.com/brunokatekawa/RossmannSales
+
+<br>
+
+### [On People Analytics - Employee turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover)
+
+With a trillion dollars on the table, businesses may also want to take other steps to curb turnover and keep their workforce happy and engaged.
+
+Project repo: https://github.com/brunokatekawa/PeopleAnalytics_Turnover
 
 ---
 
-## Skills
+## Tools
 
 <table>
   <tbody>
@@ -69,6 +96,10 @@ Got a wicked problem? Let's solve it together!
         <span>Apache Spark</span><br><br>
         <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
       </td>
+      <td width="33%" align="cßßenter">
+        <span>Power BI</span><br><br>
+        <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -80,3 +111,4 @@ Got a wicked problem? Let's solve it together!
 - [On People Analytics — Employee Turnover - A trillion dollars problem](https://medium.com/@brunokatekawa/on-people-analytics-employee-turnover-b493cec75f17)
 - [Linear Regression Study 1 - An exercise on beer consumption (PT-BR)](https://medium.com/designed-by-data/estudo-de-regress%C3%A3o-linear-1-64c1a560c938)
 - [Data Science + UX?](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
+- [Installing Apache PySparck to run on Jupyter Notebook on MacOS (PT-BR)](https://medium.com/designed-by-data/instalando-apache-pyspark-para-funcionar-com-jupyter-notebook-no-macos-42f992c45842)
