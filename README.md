@@ -4,11 +4,11 @@
 
 ### Data Analysis
 
-Analyze the data in order to extract meaningful business insights that will leverage your company. The findings are clearly presented in reports of tools.
+Analyze the data in order to extract meaningful business insights that will leverage your company. The findings are clearly presented in reports or tools.
 
 ### Data Analytics
 
-The data is the fuel to the machine learning models that will be built in order to make predictions, for example, sales and/or demand forecasts.
+Data is the fuel to the machine learning models that will be built in order to make predictions, for example, sales and/or demand forecasts.
 
 ### Dashboards
 
