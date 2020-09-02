@@ -4,7 +4,7 @@
 
 ### :mag_right: Data Analysis
 
-Analyze the data in order to extract meaningful insights that will leverage your business. The findings are clearly presented in reports of tools.
+Analyze the data in order to extract meaningful insights that will leverage your business. The findings are clearly presented in reports or tools.
 
 ### :crystal_ball: Data Analytics
 
@@ -32,7 +32,7 @@ _A **Wicked Problem** is a problem that is difficult or impossible to solve beca
 
 ## Projects
 
-### Data Analytics
+### Data Analysis & Analytics
 
 ### [Rossmann stores sales prediction](https://github.com/brunokatekawa/RossmannSales)
 
@@ -50,7 +50,15 @@ Project repo: https://github.com/brunokatekawa/PeopleAnalytics_Turnover
 
 <br>
 
-### Dashboards
+### [Credit Risk Modeling](https://github.com/brunokatekawa/credit_risk)
+
+The Fed has estimated that pandemic-related loan losses for big US banks could reach \$700 billion in a worst-case scenario (“double-dip” or W-shaped recession), pushing banks close to their capital minimums.
+
+Project repo: https://github.com/brunokatekawa/credit_risk
+
+<br>
+
+### Data Analysis & Dashboards
 
 ### [Retail Sales Dashboard](https://github.com/brunokatekawa/dashboard_sales_retail_WM)
 
