@@ -1,4 +1,4 @@
-# Data Analytics & UX Consulting
+# Bruno Katekawa
 
 ## Services
 
@@ -133,4 +133,4 @@ Project repo: https://github.com/brunokatekawa/dashboard_sales_retail_WM
 - [On People Analytics — Employee Turnover - A trillion dollars problem](https://medium.com/@brunokatekawa/on-people-analytics-employee-turnover-b493cec75f17)
 - [Linear Regression Study 1 - An exercise on beer consumption (PT-BR)](https://medium.com/designed-by-data/estudo-de-regress%C3%A3o-linear-1-64c1a560c938)
 - [Data Science + UX? (PT-BR)](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
-- [Installing Apache PySparck to run on Jupyter Notebook on MacOS (PT-BR)](https://medium.com/designed-by-data/instalando-apache-pyspark-para-funcionar-com-jupyter-notebook-no-macos-42f992c45842)
+- [Installing Apache PySpark to run on Jupyter Notebook on MacOS (PT-BR)](https://medium.com/designed-by-data/instalando-apache-pyspark-para-funcionar-com-jupyter-notebook-no-macos-42f992c45842)
