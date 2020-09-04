@@ -58,6 +58,14 @@ Project repo: https://github.com/brunokatekawa/credit_risk
 
 <br>
 
+### [Credit Card Clustering](https://github.com/brunokatekawa/credit_card_clustering)
+
+Marketing is crucial for the growth and sustainability of any business. It can help build the company’s brand, engage customers, grow revenue, and increase sales. One of the key pain points for a marketing team is to know their customers and identify their needs.
+
+Project repo: https://github.com/brunokatekawa/credit_card_clustering
+
+<br>
+
 ### Data Analysis & Dashboards
 
 ### [Retail Sales Dashboard](https://github.com/brunokatekawa/dashboard_sales_retail_WM)
