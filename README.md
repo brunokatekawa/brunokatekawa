@@ -1,6 +1,4 @@
-# Bruno Katekawa
-
-## Services
+# Services
 
 ### :mag_right: Data Analysis
 
@@ -16,7 +14,7 @@ Visualizing and interacting with the data is one of the first steps to examine t
 
 ---
 
-Hello, I'm **Bruno Katekawa**, a Data Analytics consultant, I've worked for companies of various sizes, from startups to multinationals where I had extensive experience in **Information Technology and User Experience**, extracting the maximum potential from these disciplines in order to deliver the greatest possible value to the businesses.
+Hello, I'm **Bruno Katekawa**, a Data Consultant, I've worked for companies of various sizes, from startups to multinationals where I had extensive experience in **Information Technology and User Experience**, extracting the maximum potential from these disciplines in order to deliver the greatest possible value to the businesses.
 
 In addition, I’ve collaborated with projects that positively impacted **hundreds of thousands** of people that use banking services (retail, corporate and private), telecoms services and health insurance services.
 
@@ -24,13 +22,13 @@ I appreciate collaborating with projects that change the way businesses and indu
 
 Got a wicked problem? Let's solve it together!
 
-[![Linkedin Badge](https://img.shields.io/badge/-brunokatekawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunokatekawa/)](https://www.linkedin.com/in/brunokatekawa/)
+<br>
 
 _A **Wicked Problem** is a problem that is difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize. It refers to an idea or problem that cannot be fixed, where there is no single solution to the problem; - Wikipedia_
 
 ---
 
-## Projects
+# Projects
 
 ### Data Analysis & Analytics
 
@@ -76,59 +74,71 @@ Project repo: https://github.com/brunokatekawa/dashboard_sales_retail_WM
 
 ---
 
-## Tools
+# Tools
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>MySQL</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>Python</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>pandas</span><br><br>
         <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>NumPy</span><br><br>
         <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
       </td>
-      <td width="33%" align="center">
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span>Matplotlib</span><br><br>
         <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>seaborn</span><br><br>
         <img height="64px" src="https://seaborn.pydata.org/_images/introduction_29_0.png">
       </td>
-    <tr valign="top">
-      <td width="33%" align="cßßenter">
+      <td width="25%" align="center">
         <span>scikit-learn</span><br><br>
         <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>SciPy</span><br><br>
         <img height="64px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
       </td>
-      <td width="33%" align="center">
+    <tr valign="top">
+      <td width="25%" align="center">
         <span>statsmodels</span><br><br>
         <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>Apache Spark</span><br><br>
         <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>Power BI</span><br><br>
         <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
+      </td>
+      <td width="25%" align="center">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Heroku</span><br><br>
+        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Streamlit</span><br><br>
+        <img height="64px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ad27bcfbb9dff263a_RGB_Logo_Horizontal_Color_Light_Bg-p-1080.png">
       </td>
     </tr>
   </tbody>
@@ -136,9 +146,15 @@ Project repo: https://github.com/brunokatekawa/dashboard_sales_retail_WM
 
 ---
 
-## Articles
+# Articles
 
 - [On People Analytics — Employee Turnover - A trillion dollars problem](https://medium.com/@brunokatekawa/on-people-analytics-employee-turnover-b493cec75f17)
 - [Linear Regression Study 1 - An exercise on beer consumption (PT-BR)](https://medium.com/designed-by-data/estudo-de-regress%C3%A3o-linear-1-64c1a560c938)
 - [Data Science + UX? (PT-BR)](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
 - [Installing Apache PySpark to run on Jupyter Notebook on MacOS (PT-BR)](https://medium.com/designed-by-data/instalando-apache-pyspark-para-funcionar-com-jupyter-notebook-no-macos-42f992c45842)
+
+---
+
+# Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-brunokatekawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunokatekawa/)](https://www.linkedin.com/in/brunokatekawa/)
