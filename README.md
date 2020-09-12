@@ -20,6 +20,8 @@ In addition, I’ve collaborated with projects that positively impacted **hundre
 
 I appreciate collaborating with projects that change the way businesses and industries operate to make positive impact to people.
 
+I learned a lot and **I’m still learning** with every project and every people that I know.
+
 Got a wicked problem? Let's solve it together!
 
 <br>
