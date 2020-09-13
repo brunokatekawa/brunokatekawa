@@ -14,7 +14,7 @@ Visualizing and interacting with the data is one of the first steps to examine t
 
 ---
 
-Hello, I'm **Bruno Katekawa**. I've worked for companies of various sizes, from startups to multinationals where I had extensive experience in **Information Technology and User Experience**, extracting the maximum potential from these disciplines in order to deliver the greatest possible value to the businesses.
+Hello, I'm **Bruno Katekawa**. I've worked for companies of various sizes, from startups to multinationals where I had extensive experience in **Information Technology and User Experience**, extracting the maximum potential from these disciplines in order to deliver the greatest possible value to the businesses and their customers.
 
 In addition, I’ve collaborated with projects that positively impacted **hundreds of thousands** of people that use banking services (retail, corporate and private), telecoms services and health insurance services.
 
