@@ -34,7 +34,7 @@ _A **Wicked Problem** is a problem that is difficult or impossible to solve beca
 
 ### Data Analysis & Analytics
 
-### [Rossmann stores sales prediction](https://github.com/brunokatekawa/RossmannSales)
+### [Forecasting sales volume for Rossmann stores](https://github.com/brunokatekawa/RossmannSales)
 
 In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.
 
