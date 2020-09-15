@@ -105,7 +105,7 @@ Project repo: https://github.com/brunokatekawa/dashboard_sales_retail_WM
       </td>
       <td width="25%" align="center">
         <span>seaborn</span><br><br>
-        <img height="64px" src="https://seaborn.pydata.org/_images/introduction_29_0.png">
+        <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
       </td>
       <td width="25%" align="center">
         <span>scikit-learn</span><br><br>
