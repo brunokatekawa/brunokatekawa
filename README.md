@@ -66,6 +66,14 @@ Project repo: https://github.com/brunokatekawa/credit_card_clustering
 
 <br>
 
+### [Cardio Catch Diseases](https://github.com/brunokatekawa/cardio_catch_diseases)
+
+CVDs are the number 1 cause of death globally: more people die annually from CVDs than from any other cause. People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management using counselling and medicines, as appropriate.
+
+Project repo: https://github.com/brunokatekawa/cardio_catch_diseases
+
+<br>
+
 ### Data Analysis & Dashboards
 
 ### [Retail Sales Dashboard](https://github.com/brunokatekawa/dashboard_sales_retail_WM)
@@ -129,11 +137,15 @@ Project repo: https://github.com/brunokatekawa/dashboard_sales_retail_WM
         <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
       </td>
       <td width="25%" align="center">
-        <span>Flask</span><br><br>
-        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
+        <span>Tableau</span><br><br>
+        <img height="47px" src="https://www.tableau.com/themes/custom/tableau_www/logo.png">
       </td>
     </tr>
     <tr valign="top">
+    <td width="25%" align="center">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
+      </td>
       <td width="25%" align="center">
         <span>Heroku</span><br><br>
         <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
@@ -153,6 +165,7 @@ Project repo: https://github.com/brunokatekawa/dashboard_sales_retail_WM
 - [On People Analytics — Employee Turnover - A trillion dollars problem](https://medium.com/@brunokatekawa/on-people-analytics-employee-turnover-b493cec75f17)
 - [Linear Regression Study 1 - An exercise on beer consumption (PT-BR)](https://medium.com/designed-by-data/estudo-de-regress%C3%A3o-linear-1-64c1a560c938)
 - [Data Science + UX? (PT-BR)](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
+- [Dual Track Data Science and Experience Design Life Cycle (PT-BR)](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
 - [Installing Apache PySpark to run on Jupyter Notebook on MacOS (PT-BR)](https://medium.com/designed-by-data/instalando-apache-pyspark-para-funcionar-com-jupyter-notebook-no-macos-42f992c45842)
 
 ---
