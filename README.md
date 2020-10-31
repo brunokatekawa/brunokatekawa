@@ -6,7 +6,7 @@ Analyze the data in order to extract meaningful insights that will leverage your
 
 ### :crystal_ball: Data Analytics
 
-The data is the fuel to the machine learning models that will be built in order to make predictions, for example, sales and/or demand forecasts.
+The data is the fuel to the machine learning models that will be built in order to tell you what might happen in the future, for example, sales and demand forecasts.
 
 ### :bar_chart: Dashboards
 
@@ -34,19 +34,11 @@ _A **Wicked Problem** is a problem that is difficult or impossible to solve beca
 
 ### Data Analysis & Analytics
 
-### [Forecasting sales volume for Rossmann stores](https://github.com/brunokatekawa/RossmannSales)
+### [Preventing Fradulent Transactions for Good](https://github.com/brunokatekawa/fraud_blocker_company)
 
-In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.
+According to Infosecurity Magazine, fraud cost the global economy £3.2 trillion in 2018. For some businesses, losses to fraud reach more than 10% of their total spending. Such massive losses push companies to search for new solutions to prevent, detect, and eliminate fraud.
 
-Project repo: https://github.com/brunokatekawa/RossmannSales
-
-<br>
-
-### [On People Analytics - Employee turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover)
-
-With a trillion dollars on the table, businesses may also want to take other steps to curb turnover and keep their workforce happy and engaged.
-
-Project repo: https://github.com/brunokatekawa/PeopleAnalytics_Turnover
+Project repo: https://github.com/brunokatekawa/fraud_blocker_company
 
 <br>
 
@@ -58,6 +50,14 @@ Project repo: https://github.com/brunokatekawa/credit_risk
 
 <br>
 
+### [On People Analytics - Employee turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover)
+
+With a trillion dollars on the table, businesses may also want to take other steps to curb turnover and keep their workforce happy and engaged.
+
+Project repo: https://github.com/brunokatekawa/PeopleAnalytics_Turnover
+
+<br>
+
 ### [Customer Segmentation - Credit Card](https://github.com/brunokatekawa/credit_card_clustering)
 
 Marketing is crucial for the growth and sustainability of any business. It can help build the company’s brand, engage customers, grow revenue, and increase sales. One of the key pain points for a marketing team is to know their customers and identify their needs.
@@ -66,11 +66,19 @@ Project repo: https://github.com/brunokatekawa/credit_card_clustering
 
 <br>
 
-### [Cardio Catch Diseases](https://github.com/brunokatekawa/cardio_catch_diseases)
+### [Predicting Cardiovascular Diseases](https://github.com/brunokatekawa/cardio_catch_diseases)
 
 CVDs are the number 1 cause of death globally: more people die annually from CVDs than from any other cause. People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management using counselling and medicines, as appropriate.
 
 Project repo: https://github.com/brunokatekawa/cardio_catch_diseases
+
+<br>
+
+### [Forecasting sales volume for Rossmann stores](https://github.com/brunokatekawa/RossmannSales)
+
+In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.
+
+Project repo: https://github.com/brunokatekawa/RossmannSales
 
 <br>
 
@@ -162,11 +170,11 @@ Project repo: https://github.com/brunokatekawa/dashboard_sales_retail_WM
 
 # Articles
 
-- [On People Analytics — Employee Turnover - A trillion dollars problem](https://medium.com/@brunokatekawa/on-people-analytics-employee-turnover-b493cec75f17)
-- [Linear Regression Study 1 - An exercise on beer consumption (PT-BR)](https://medium.com/designed-by-data/estudo-de-regress%C3%A3o-linear-1-64c1a560c938)
 - [Data Science + UX? (PT-BR)](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
 - [Dual Track Data Science and Experience Design Life Cycle (PT-BR)](https://medium.com/designed-by-data/design-ci%C3%AAncia-de-dados-5fe8e268bd40)
 - [Installing Apache PySpark to run on Jupyter Notebook on MacOS (PT-BR)](https://medium.com/designed-by-data/instalando-apache-pyspark-para-funcionar-com-jupyter-notebook-no-macos-42f992c45842)
+- [On People Analytics — Employee Turnover - A trillion dollars problem](https://medium.com/@brunokatekawa/on-people-analytics-employee-turnover-b493cec75f17)
+- [Linear Regression Study 1 - An exercise on beer consumption (PT-BR)](https://medium.com/designed-by-data/estudo-de-regress%C3%A3o-linear-1-64c1a560c938)
 
 ---
 
