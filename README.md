@@ -32,7 +32,19 @@ _A **Wicked Problem** is a problem that is difficult or impossible to solve beca
 
 # Projects
 
-### Data Analysis & Analytics
+### Data Science & Machine Learning
+
+### [FoodExpress - Targeting Customers for Marketing Strategy](https://github.com/brunokatekawa/food_retail_classification)
+
+At a high level, digital marketing refers to advertising delivered through digital channels such as search engines, websites, social media, email, and mobile apps. Using these online media channels, digital marketing is the method by which companies endorse goods, services, and brands.
+
+<br>
+
+### [FoodExpress - Customer Segmentation for Marketing Strategy](https://github.com/brunokatekawa/food_retail_clustering)
+
+Marketing is crucial for the growth and sustainability of any business. It can help build the company’s brand, engage customers, grow revenue, and increase sales. One of the key pain points for a marketing team is to know their customers and identify their needs.
+
+<br>
 
 ### [Preventing Fradulent Transactions for Good](https://github.com/brunokatekawa/fraud_blocker_company)
 
@@ -82,7 +94,7 @@ Project repo: https://github.com/brunokatekawa/RossmannSales
 
 <br>
 
-### Data Analysis & Dashboards
+### Data Analytics & Dashboards
 
 ### [Retail Sales Dashboard](https://github.com/brunokatekawa/dashboard_sales_retail_WM)
 
