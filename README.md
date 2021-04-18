@@ -1,12 +1,12 @@
 # I can help you with
 
-### :mag_right: Data Analysis
-
-Analyze the data in order to extract meaningful insights that will leverage your business. The findings are clearly presented in reports or tools.
-
-### :crystal_ball: Data Analytics
+### :crystal_ball: Data Science
 
 The data is the fuel to the machine learning models that will be built in order to tell you what might happen in the future, for example, sales and demand forecasts.
+
+### :mag_right: Data Analytics
+
+Analyze the data in order to extract meaningful insights that will leverage your business. The findings are clearly presented in reports or tools.
 
 ### :bar_chart: Dashboards
 
