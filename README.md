@@ -32,6 +32,12 @@ _A **Wicked Problem** is a problem that is difficult or impossible to solve beca
 
 # Projects
 
+### Data Engineering
+### [Building a Simple ETL Data Pipeline with AWS](https://github.com/brunokatekawa/simple-etl-data-pipeline-with-aws)
+Extract, Transform, and Load Data into Amazon RDS using Python and PostgreSQL.
+
+<br>
+
 ### Data Science & Machine Learning
 
 ### [FoodExpress - Targeting Customers for Marketing Strategy](https://github.com/brunokatekawa/food_retail_classification)
